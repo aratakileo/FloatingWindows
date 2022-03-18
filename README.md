@@ -1,16 +1,19 @@
-# NEW API VERSION
-[New API version](https://github.com/TeaCondemns/AndroidFloatingWindowsEngine)
+# FloatingWindows
+Floating windows for Android
 
-# Avaliable API
+- [New API version](https://github.com/TeaCondemns/AndroidFloatingWindowsEngine)
+- [Download](#download)
+- [When were last source code changes](#when-were-last-source-code-changes)
+
+## How to use
 Windows:
-- [Window](https://github.com/TeaCondemns/android-libs-FloatingWindows#window)
-- [DynamicWindow](https://github.com/TeaCondemns/android-libs-FloatingWindows#dynamicwindow)
-- [VideoWindow](https://github.com/TeaCondemns/android-libs-FloatingWindows#videowindow)
+- [Window](#window)
+- [DynamicWindow](#dynamicwindow)
+- [VideoWindow](#videowindow)
 
 Other:
-- [FloatingView](https://github.com/TeaCondemns/android-libs-FloatingWindows#floatingview)
+- [FloatingView](#floatingview)
 
-# How to use
 ### Window
 Initialize in `MainActivity.kt`
 ```kotlin
@@ -202,5 +205,9 @@ FLAG_DRAGGABLE = 1
 FLAG_LAYOUT_NO_LIMITS = 2
 FLAG_LAYOUT_IN_SCREEN = 4
 ```
-#
+
+## Download
 [Download test-application](https://cloud.mail.ru/public/PCzA/tFEqetY1e)
+
+## When were last source code changes
+`30 June 2021`
