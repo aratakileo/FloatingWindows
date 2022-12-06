@@ -3,7 +3,7 @@ Floating windows for Android
 
 ### New API Version
 <a href="https://github.com/TeaCondemns/AndroidFloatingWindowsEngine">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=TeaCondemns&repo=AndroidFloatingWindowsEngine&theme=github_dark" />
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=teacondemns&repo=AndroidFloatingWindowsEngine&theme=github_dark" />
 </a>
 
 ### Navigation
